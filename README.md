@@ -59,7 +59,7 @@ The ingredients dataset includes:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository-url
+   git@github.com:Aravinth-Megnath/Pizza.git
 ** Results
   -Forecasted sales for each pizza type for the next three months.
   -Estimated ingredient purchase quantities based on the forecasted sales.
