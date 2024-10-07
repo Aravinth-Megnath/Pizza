@@ -61,16 +61,16 @@ The ingredients dataset includes:
    ```bash
    git@github.com:Aravinth-Megnath/Pizza.git
 ## Results
-  -Forecasted sales for each pizza type for the next three months.
-  -Estimated ingredient purchase quantities based on the forecasted sales.
+  - Forecasted sales for each pizza type for the next three months.
+  - Estimated ingredient purchase quantities based on the forecasted sales.
 ## Libraries Used
-  -Pandas: Data manipulation and preprocessing.
-  -XGBoost: For regression and forecasting.
-  -NumPy: Numerical computations.
-  -Scikit-learn: Model validation and splitting.
-  -Matplotlib/Seaborn: For visualizing results (if applicable).
+  - Pandas: Data manipulation and preprocessing.
+  - XGBoost: For regression and forecasting.
+  - NumPy: Numerical computations.
+  - Scikit-learn: Model validation and splitting.
+  - Matplotlib/Seaborn: For visualizing results (if applicable).
 ## Future Improvements
-  -Integrate external data (e.g., holidays, promotions) to improve prediction accuracy.
-  -Automate the purchase order process with real-time stock updates.
+  - Integrate external data (e.g., holidays, promotions) to improve prediction accuracy.
+  - Automate the purchase order process with real-time stock updates.
 ## Conclusion
 This project provides a reliable method for predicting pizza sales and ensuring that the necessary ingredients are stocked in advance. It is designed to help businesses optimize inventory management and reduce costs associated with overstocking or understocking.
