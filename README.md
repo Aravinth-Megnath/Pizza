@@ -5,7 +5,7 @@
 This project aims to forecast pizza sales for the next week and predict the necessary ingredients required to meet that demand. The solution uses historical sales data to build predictive models and ensures that the required ingredients are kept in stock for upcoming orders. 
 
 ### Key Objectives:
-1. **Sales Forecasting**: Predict pizza sales quantity for the next three months.
+1. **Sales Forecasting**: Predict pizza sales quantity for the next week.
 2. **Ingredient Planning**: Calculate and plan for ingredient purchases based on the forecasted sales to ensure sufficient inventory.
    
 ## Datasets
